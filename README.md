@@ -1,1 +1,1 @@
-🏠 [carlos-menezes.com](http://www.carlos-menezes.com/)
+portugal. software engineer. rust. typescript. enquiries: carlos.dm.menezes+work[at]gmail.com
